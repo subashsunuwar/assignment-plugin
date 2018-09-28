@@ -1,4 +1,4 @@
-s
+
 #youtubesubs
 wordpress plugin repository for you tube subscribe plugin.
 
@@ -12,7 +12,7 @@ Description: youtubesubs is open source web based plugin created for showing sub
 1. install youtubesubs ;<br/>
 2. configure youtubesubs ; <br/>
 3. currently it allows users to subscribe to a you tube channel and shows the subscriber count. ; <br/>
-4. have fun <br/.
+4. have fun <br/>
 
 # requirements
 wordpress 4.8 +<br/>
